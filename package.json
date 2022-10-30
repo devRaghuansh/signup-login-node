@@ -1,0 +1,19 @@
+{
+  "name": "signup-login-node",
+  "version": "1.0.0",
+  "description": "Basic node based sign up login apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devRaghuansh/signup-login-node.git"
+  },
+  "author": "Amit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devRaghuansh/signup-login-node/issues"
+  },
+  "homepage": "https://github.com/devRaghuansh/signup-login-node#readme"
+}
