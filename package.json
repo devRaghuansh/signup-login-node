@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devRaghuansh/signup-login-node/issues"
   },
-  "homepage": "https://github.com/devRaghuansh/signup-login-node#readme"
+  "homepage": "https://github.com/devRaghuansh/signup-login-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
